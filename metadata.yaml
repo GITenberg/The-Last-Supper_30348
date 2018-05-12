@@ -1,0 +1,33 @@
+_repo: The-Last-Supper_30348
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Hamm, T. D.
+    aliases:
+    - Evans, Thelma Hamm
+    - Hamm, Thelma D.
+    birthdate: 1905
+    deathdate: 1994
+    gutenberg_agent_id: '34312'
+    url: http://www.gutenberg.org/2009/agents/34312
+description: ''
+gutenberg_bookshelf:
+- Science Fiction
+- Science Fiction by Women
+gutenberg_issued: '2009-10-28'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '30348'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Science fiction'
+- !lcsh 'Short stories'
+- !lcc 'PS'
+title: The Last Supper
+url: http://www.gutenberg.org/ebooks/30348
